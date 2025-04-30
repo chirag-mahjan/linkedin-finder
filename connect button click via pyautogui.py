@@ -35,7 +35,6 @@ profile_url = "https://www.linkedin.com/in/deep-makadiya-4ab258222/"
 driver.get(profile_url)
 time.sleep(3)
 
-safest way
 pyautogui.moveTo(127, 587)  # Change this to the pixel coordinates you want
 pyautogui.click()
 time.sleep(5)
